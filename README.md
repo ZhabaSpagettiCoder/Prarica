@@ -1,3 +1,3 @@
 # Prarica
-Repository for DBSource
+Repository for Praktika
 PP 
